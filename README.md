@@ -1,7 +1,7 @@
 # MLND-Capstone
 
-### Package required:
-####  TA-Lib
-####  Quandl: API key:"tMcAQrxVdSPB8yifJGX6"
-####  cPickle
-####  A README documentation file which briefly describes the software and libraries used in your project, including any necessary references to supporting material. If your project requires setup/startup, ensure that your README includes the necessary instructions.
+### Packages and libraries used in the Project:
+####  TA-Lib: Perform technical analysis of financial market data. (https://github.com/mrjbq7/ta-lib)
+####  Quandl: Financial datasets library. (https://github.com/quandl/quandl-python) API key:"tMcAQrxVdSPB8yifJGX6"
+####  Pendulum: Python datetime module. (https://github.com/sdispater/pendulum)
+####  Matplotlib: Python 2D plotting library. (https://matplotlib.org/)
